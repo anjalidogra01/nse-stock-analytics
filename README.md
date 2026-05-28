@@ -103,6 +103,16 @@ python llm_summary.py  # Generate AI summary (requires Gemini API key)
 
 Open `NSE_Stock_Dashboard.pbix` in Power BI Desktop.
 
+## Dashboard Preview
+
+### Page 1 — Overview & Trends
+
+![Page 1](screenshots/page1.png)
+
+### Page 2 — Analytics & Risk Insights
+
+![Page 2](screenshots/page2.png)
+
 ## Project Structure
 
 ```text
