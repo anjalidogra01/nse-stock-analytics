@@ -2,7 +2,7 @@ import pandas as pd
 from google import genai
 
 # ── CONFIGURE GEMINI ──
-client = genai.Client(api_key="AIzaSyAGYZfQj40xr9eJaowUsvYpM-CFAP4BCA0")
+client = genai.Client(api_key="GEMINI_API_KEY")
 for model in client.models.list():
     print(model.name)
 # ── LOAD DATA ──
